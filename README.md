@@ -1,6 +1,6 @@
 <h1>Olá! :wave: </h1> 
 
-Meu nome é Rodrigo, sou estudante de Análise e Desenvolvimento de Sistemas. 
+Meu nome é Rodrigo, sou estudante de Análise e Desenvolvimento de Sistemas na Unisinos/RS.
 
 Meus interesses são novas tecnologias e linguagem de programação Java (estrutura Back-End).
 
