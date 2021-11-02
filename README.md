@@ -15,7 +15,7 @@ Meus interesses são novas tecnologias e linguagem de programação Java (estrut
 
  
  
-**Contato** 📫:
+**Contato** 📫
 ---
   <div> 
   
@@ -28,7 +28,7 @@ Meus interesses são novas tecnologias e linguagem de programação Java (estrut
     
 </div>
 
-**Habilidades** 💻:
+**Habilidades** 💻
 ---
 
 <div>
@@ -45,14 +45,16 @@ Meus interesses são novas tecnologias e linguagem de programação Java (estrut
 
 </div>
 
-**Projetos** 📚:
+**Projetos** 📚
 ---
-Projetos em construção ⚠️:
+
+Projetos em construção ⚠️
 
 Em breve...
 
 **Snake**
 ---
+
 ![snake gif](https://github.com/rodrigoscalon/rodrigoscalon/blob/output/github-contribution-grid-snake.svg)
   
   
