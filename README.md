@@ -4,7 +4,6 @@ Meus interesses são novas tecnologias e linguagem de programação Java (estrut
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoscalon&theme=vision-friendly-dark&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoscalon&layout=compact"/>
 </div>
  
 Contatos 📫:
