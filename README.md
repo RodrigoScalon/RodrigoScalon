@@ -6,6 +6,7 @@ Meus interesses são novas tecnologias e linguagem de programação Java (estrut
 
 
 <div>
+ 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoscalon&theme=vision-friendly-dark&show_icons=true"/>
 
 
@@ -14,7 +15,8 @@ Meus interesses são novas tecnologias e linguagem de programação Java (estrut
 
  
  
-**Contatos** 📫:
+**Contato** 📫:
+---
   <div> 
   
   
@@ -27,6 +29,8 @@ Meus interesses são novas tecnologias e linguagem de programação Java (estrut
 </div>
 
 **Habilidades** 🏁:
+---
+
 <div>
   
 
@@ -42,7 +46,8 @@ Meus interesses são novas tecnologias e linguagem de programação Java (estrut
 </div>
 
 **Projetos** 🚧:
-
+---
+Projetos em construção ⚠️:
 
 
 
