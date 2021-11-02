@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoscalon&layout=compact"/>
 </div>
  
-## Como me encontrar:
+## Contato:
 
   <div> 
   
