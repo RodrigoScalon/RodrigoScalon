@@ -7,15 +7,14 @@ Meus interesses são novas tecnologias e linguagem de programação Java (estrut
 <div align="center">
   <a href="https://github.com/rodrigoscalon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoscalon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- </div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoscalon&layout=compact&langs_count=7&theme=dracula"/>
+  </div> 
+
+</div>
   
   ##
  
-<div align="center"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoscalon&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-
+  
 **Habilidades** 💻
 ---
 
