@@ -10,7 +10,6 @@ Meus interesses são novas tecnologias e linguagem de programação Java (estrut
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoscalon&layout=compact&langs_count=7&theme=dracula"/>
   </div> 
 
-</div> 
   
 **Habilidades** 💻
 ---
