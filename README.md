@@ -5,7 +5,11 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rodrigoscalon&theme=vision-friendly-dark&show_icons=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoscalon&layout=compact"/>
 </div>
-
+  
+  <div style="display: inline_block"><br>
+</div>
+  
+  ##
 ## Como me encontrar:
 
 
