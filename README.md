@@ -28,7 +28,7 @@ Meus interesses são novas tecnologias e linguagem de programação Java (estrut
     
 </div>
 
-**Habilidades** 🏁:
+**Habilidades** 💻:
 ---
 
 <div>
@@ -45,7 +45,7 @@ Meus interesses são novas tecnologias e linguagem de programação Java (estrut
 
 </div>
 
-**Projetos** 🚧:
+**Projetos** 📚:
 ---
 Projetos em construção ⚠️:
 
