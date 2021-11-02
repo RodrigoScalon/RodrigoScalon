@@ -30,5 +30,8 @@ Habilidades 🏁:
 </div>
 
 Projetos 🚧:
+
+
+![snake gif](https://github.com/rodrigoscalon/rodrigoscalon/blob/output/github-contribution-grid-snake.gif)
   
   
