@@ -1,6 +1,6 @@
-<h1>Olá!</h1>
+<h1>Olá! :wave: </h1> 
 
-Meu nome é Rodrigo, sou estudante de Análise e Desenvolvimento de Sistemas. :wave: 
+Meu nome é Rodrigo, sou estudante de Análise e Desenvolvimento de Sistemas. 
 
 Meus interesses são novas tecnologias e linguagem de programação Java (estrutura Back-End).
 
