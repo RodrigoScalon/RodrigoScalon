@@ -4,12 +4,19 @@ Meu nome é Rodrigo, sou estudante de Análise e Desenvolvimento de Sistemas. :w
 
 Meus interesses são novas tecnologias e linguagem de programação Java (estrutura Back-End).
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoscalon&theme=vision-friendly-dark&show_icons=true"/>
+
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoscalon&theme=vision-friendly-dark&show_icons=true"/>
+
+
 </div>
+
+
  
-Contatos 📫:
+ 
+**Contatos** 📫:
   <div> 
+  
   
   <a href = "mailto:rodrigoscalon@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodrigo-scalon-b20713b1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -19,18 +26,24 @@ Contatos 📫:
     
 </div>
 
-Habilidades 🏁:
+**Habilidades** 🏁:
 <div>
-<img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src = "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src = "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src = "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src = "https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+  
+
+<img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+<img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+<img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
+<img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" />
+<img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
 
 </div>
 
-Projetos 🚧:
+**Projetos** 🚧:
+
+
 
 
 ![snake gif](https://github.com/rodrigoscalon/rodrigoscalon/blob/output/github-contribution-grid-snake.svg)
