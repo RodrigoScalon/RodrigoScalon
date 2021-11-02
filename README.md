@@ -1,6 +1,6 @@
 Meu nome é Rodrigo, sou estudante de Análise e Desenvolvimento de Sistemas. :wave: 
 
-Meus interesses são linguagem de programação Java e estrutura Back-End.
+Meus interesses são novas tecnologias e linguagem de programação Java (estrutura Back-End).
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoscalon&theme=vision-friendly-dark&show_icons=true"/>
@@ -26,7 +26,6 @@ Habilidades 🏁:
 <img src = "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src = "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src = "https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
-
 
 </div>
 
