@@ -2,20 +2,11 @@
 
 <div align="center">
   <a href="https://github.com/rodrigoscalon">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rodrigoscalon&theme=vision-friendly-dark&show_icons=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoscalon&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoscalon&theme=vision-friendly-dark&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoscalon&layout=compact"/>
 </div>
-  
-  <div style="display: inline_block"><br>
-</div>
-  
-  ##
+ 
 ## Como me encontrar:
-
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-<i class="devicon-github-original-wordmark colored"></i>
-
 
   <div> 
   
