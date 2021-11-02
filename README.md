@@ -1,4 +1,6 @@
-Meu nome é Rodrigo, sou estudante de Análise e Desenvolvimento de Sistemas. :wave:   
+Meu nome é Rodrigo, sou estudante de Análise e Desenvolvimento de Sistemas. :wave: 
+
+Meus interesses são linguagem de programação Java e estrutura Back-End.
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoscalon&theme=vision-friendly-dark&show_icons=true"/>
