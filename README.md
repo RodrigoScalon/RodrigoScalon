@@ -39,7 +39,7 @@ Projetos em construção ⚠️
 Projeto que informa o resultado e participação das venda de X funcionários. 
 Utilizado REACT no frontend e Spring no backend.
     
-<a href = "https://rsvendas-rodrigoscalon.netlify.app/m">
+<a href = "https://rsvendas-rodrigoscalon.netlify.app">
  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a>
     
   
