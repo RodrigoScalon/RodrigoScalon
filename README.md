@@ -29,13 +29,21 @@ Meus interesses são novas tecnologias e linguagem de programação Java (estrut
 
 </div>
 
+<div>
+    
 **Projetos** 📚
 ---
 
 Projetos em construção ⚠️
 
-Em breve...
-
+Projeto que informa o resultado e participação das venda de X funcionários. 
+Utilizado REACT no frontend e Spring no backend.
+    
+<a href = "https://rsvendas-rodrigoscalon.netlify.app/m">
+ <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a>
+    
+  
+    
 **Contato** 📫
 ---
   <div> 
