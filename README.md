@@ -38,7 +38,7 @@ Meus interesses são novas tecnologias e linguagem de programação Java (estrut
 
 Projeto de Resultado de Vendas. 
 Utilizado REACT no frontend e Spring no backend.
-Postman e Heroku.
+Postman e Heroku. PS: o carregamento do BD pode demorar uns segundos.
     
 <a href = "https://rsvendas-rodrigoscalon.netlify.app">
  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a>
