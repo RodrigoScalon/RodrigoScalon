@@ -34,15 +34,14 @@ Meus interesses são novas tecnologias e linguagem de programação Java (estrut
 📚 **Projetos**
 ---
 
-1) Projeto Resultado de Vendas. 
+1️⃣ Projeto - Resultado de Vendas. 
 Utilizado REACT no frontend e Spring Boot no backend. Postman e Heroku. 
-PS: o carregamento do BD pode demorar uns segundos.
     
-<a href = "https://rsvendas-rodrigoscalon.netlify.app">
- <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a>
+2️⃣ Projeto - Web Services com Spring Boot - JPA/Hibernate. A aplicação e produção está rodando no Heroku.
     
-2) Projeto Jogo da Memória - Heróis.
-Utilizando somente REACT. Imagens utilizadas da internet.
+3️⃣ Projeto - Spring e MongoDb
+    
+4️⃣ Projeto - Jogo da Memória - Heróis. Utilizando REACT.
     (em breve)
   
     
