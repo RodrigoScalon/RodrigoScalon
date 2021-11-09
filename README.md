@@ -10,8 +10,8 @@ Meus interesses são novas tecnologias e linguagem de programação Java (estrut
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoscalon&layout=compact&langs_count=7&theme=dracula"/>
   
 </div> 
-
-  
+ 
+    
 💻 **Habilidades** 
 ---
 
@@ -27,13 +27,10 @@ Meus interesses são novas tecnologias e linguagem de programação Java (estrut
 <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 
-
-
 </div>
 
 <div>
-    
-    
+   
     
 📚 **Projetos**
 ---
@@ -45,10 +42,6 @@ Meus interesses são novas tecnologias e linguagem de programação Java (estrut
 3️⃣ [Projeto - Spring e MongoDb.](https://github.com/RodrigoScalon/Projeto-Spring-Boot-Mongodb)
     
 4️⃣ [Projeto - Jogo da Memória - Heróis. Com REACT.](https://github.com/RodrigoScalon/Jogo_Memoria_Herois)
-
-
-    
-    
     
     
 📫 **Contato** 
