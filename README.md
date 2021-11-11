@@ -1,4 +1,9 @@
-<h1>Olá! :wave: </h1> 
+<h1 align="center">
+    Olá!
+    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /></h1>
 
 Meu nome é Rodrigo, sou estudante de Análise e Desenvolvimento de Sistemas na Unisinos/RS e, também, realizo cursos e projetos individuais para complementar o aprendizado da faculdade.                                                                                                                                                              
 
