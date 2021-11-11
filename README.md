@@ -2,7 +2,7 @@
 
 Meu nome é Rodrigo, sou estudante de Análise e Desenvolvimento de Sistemas na Unisinos/RS e, também, realizo cursos e projetos individuais para complementar o aprendizado da faculdade.                                                                                                                                                              
 
-Meus interesses são novas tecnologias e linguagem de programação Java (estrutura Back-End). Front-End por curiosidade.
+Meus interesses são novas tecnologias e linguagem de programação Java (estrutura Back-End). 
 
 <div align="center">
     
