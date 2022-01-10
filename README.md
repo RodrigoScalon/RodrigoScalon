@@ -9,9 +9,6 @@ Meu nome é Rodrigo, sou estudante de Análise e Desenvolvimento de Sistemas na 
 
 Meus interesses são novas tecnologias e linguagem de programação Java (estrutura Back-End). 
 
-
-“Give me a lever and a place to stand and I will move the earth.” Archimedes.
-
 <div align="center">
     
   <a href="https://github.com/rodrigoscalon">
