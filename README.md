@@ -63,7 +63,6 @@ Meus interesses são novas tecnologias e linguagem de programação Java (estrut
 
 ---
 
-![snake gif](https://github.com/rodrigoscalon/rodrigoscalon/blob/output/github-contribution-grid-snake.svg)
   
   </div>
 
