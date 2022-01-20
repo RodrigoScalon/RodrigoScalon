@@ -48,6 +48,10 @@ Meus interesses são novas tecnologias e linguagem de programação Java (estrut
     
 4️⃣ [Projeto - Jogo da Memória - Heróis. Com REACT.](https://github.com/RodrigoScalon/Jogo_Memoria_Herois)
     
+:five: [ Projeto - Avaliação de Filmes com REACT.] (     
+
+    
+    
     
 📫 **Contato** 
 ---
