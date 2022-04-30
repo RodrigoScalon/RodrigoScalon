@@ -5,9 +5,9 @@
          height="45"
          width="45" /></h1>
 
-Meu nome é Rodrigo, sou estudante de Análise e Desenvolvimento de Sistemas na Unisinos/RS e, também, realizo cursos e projetos individuais para complementar o aprendizado da faculdade.                                                                                                                                                              
+Meu nome é Rodrigo, sou estudante de Análise e Desenvolvimento de Sistemas na Unisinos/RS e realizo cursos e projetos individuais para complementar o aprendizado da faculdade.                                                                                                                                                              
 
-Meus interesses são novas tecnologias e linguagem de programação Java (estrutura Back-End). 
+Meus interesses são novas tecnologias e linguagem de programação Java e Apex. 
 
 <div align="center">
     
@@ -48,7 +48,6 @@ Meus interesses são novas tecnologias e linguagem de programação Java (estrut
     
 4️⃣ [Projeto - Jogo da Memória - Heróis. Com REACT.](https://github.com/RodrigoScalon/Jogo_Memoria_Herois)
     
-:five: :no_entry: [Projeto - Avaliação de Filmes com REACT.](https://github.com/RodrigoScalon/projectmovies) (em construção) :no_entry:  
 
     
     
